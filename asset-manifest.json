@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Welcome-App/static/css/main.928905dc.chunk.css",
+    "main.js": "/Welcome-App/static/js/main.6fb3c247.chunk.js",
+    "main.js.map": "/Welcome-App/static/js/main.6fb3c247.chunk.js.map",
+    "runtime-main.js": "/Welcome-App/static/js/runtime-main.02688792.js",
+    "runtime-main.js.map": "/Welcome-App/static/js/runtime-main.02688792.js.map",
+    "static/js/2.e5647cb4.chunk.js": "/Welcome-App/static/js/2.e5647cb4.chunk.js",
+    "static/js/2.e5647cb4.chunk.js.map": "/Welcome-App/static/js/2.e5647cb4.chunk.js.map",
+    "index.html": "/Welcome-App/index.html",
+    "static/css/main.928905dc.chunk.css.map": "/Welcome-App/static/css/main.928905dc.chunk.css.map",
+    "static/js/2.e5647cb4.chunk.js.LICENSE.txt": "/Welcome-App/static/js/2.e5647cb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02688792.js",
+    "static/js/2.e5647cb4.chunk.js",
+    "static/css/main.928905dc.chunk.css",
+    "static/js/main.6fb3c247.chunk.js"
+  ]
+}
